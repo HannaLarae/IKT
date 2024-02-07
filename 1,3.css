@@ -1,0 +1,24 @@
+h4 {
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: rgb(100, 92, 82);
+}
+
+h6 {
+    text-decoration: wavy;
+    text-decoration-line: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: bisque;
+}
+
+body {
+    background-color: rgb(155, 139, 119);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
